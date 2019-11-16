@@ -1,0 +1,6 @@
+/.ackrc
+/.build/
+!/.gitignore
+/.latest
+/Task-CatInABox-*/
+/Task-CatInABox-*.tar.gz

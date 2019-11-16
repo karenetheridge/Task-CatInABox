@@ -12,7 +12,7 @@ This distribution defined a set of modules to cover common modules used
 in Catalyst applications.
 
 This package is used by L<Perl::Dist::CatInABox> to produce a standalone
-Catalyst installer for Win32, but is made available seperately so that
+Catalyst installer for Win32, but is made available separately so that
 others can update their installations to match the same module set.
 
 The "Catalyst in a Box" module collection is curated by Kieren Diment

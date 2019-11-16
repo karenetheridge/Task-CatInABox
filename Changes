@@ -1,5 +1,6 @@
 Changes for Perl extension Task-CatInABox
 
+{{$NEXT}}
         - Correct name for DBIx::Class::Timestamp
 
 0.03      2009-04-22

@@ -94,10 +94,7 @@ L<Catalyst::Authentication::Credential::HTTP>
 use 5.008;
 use strict;
 
-use vars qw{$VERSION};
-BEGIN {
-	$VERSION = '0.03';
-}
+our $VERSION = '0.04';
 
 1;
 
